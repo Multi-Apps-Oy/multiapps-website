@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://korttiapp.fi
+
+# Sitemaps
+Sitemap: https://korttiapp.fi/sitemap.xml

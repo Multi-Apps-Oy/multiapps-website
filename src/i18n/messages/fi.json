@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Multi-Apps Oy — Mobiilisovelluksia arkeen ja työhön",
+      "description": "Multi-Apps Oy kehittää käytännöllisiä mobiilisovelluksia. Tutustu tuotteisiimme ja ota yhteyttä."
+    },
+    "korttiApp": {
+      "title": "KorttiApp — Digitaalinen lompakko työkorteille",
+      "description": "KorttiApp on digitaalinen lompakko työkorteille. Kuvaa korttisi, tallenna ne yhteen paikkaan ja näytä ne aina kun tarvitset."
+    },
+    "features": {
+      "title": "Ominaisuudet — KorttiApp",
+      "description": "Tutustu KorttiAppin ominaisuuksiin: digitaalinen lompakko, automaattinen tunnistus, PDF-jakaminen ja paljon muuta."
+    },
+    "pricing": {
+      "title": "Hinnoittelu — KorttiApp",
+      "description": "KorttiApp on täysin ilmainen. Lataa sovellus ja aloita korttien digitoiminen heti."
+    },
+    "contact": {
+      "title": "Yhteystiedot — Multi-Apps Oy",
+      "description": "Ota yhteyttä Multi-Apps Oy:hyn. Kerromme mielellämme lisää tuotteistamme ja palveluistamme."
+    },
+    "privacy": {
+      "title": "Tietosuojaseloste — Multi-Apps Oy",
+      "description": "Multi-Apps Oy:n tietosuojaseloste. Kaikki tiedot pysyvät laitteellasi — ei pilvipalveluja, ei tilejä."
+    },
+    "terms": {
+      "title": "Käyttöehdot — Multi-Apps Oy",
+      "description": "Multi-Apps Oy:n käyttöehdot. Lue ehdot ennen sovellusten käyttöä."
+    }
+  },
+  "nav": {
+    "products": "Tuotteet",
+    "contact": "Yhteystiedot",
+    "download": "Lataa sovellus"
+  },
+  "companyHero": {
+    "headline": "Kehitämme sovelluksia, jotka helpottavat arkeasi",
+    "subheadline": "Multi-Apps Oy on suomalainen ohjelmistoyritys, joka rakentaa käytännöllisiä mobiilisovelluksia ammattilaisille ja kuluttajille."
+  },
+  "companyProducts": {
+    "title": "Tuotteemme",
+    "subtitle": "Sovellukset, jotka ratkaisevat todellisia ongelmia.",
+    "korttiApp": {
+      "title": "KorttiApp",
+      "description": "Digitaalinen lompakko työkorteille. Kuvaa, tallenna ja jaa työkorttisi helposti ja turvallisesti.",
+      "cta": "Lue lisää"
+    },
+    "comingSoon": {
+      "title": "Lisää tulossa",
+      "description": "Kehitämme jatkuvasti uusia sovelluksia. Pysy kuulolla!"
+    }
+  },
+  "companyAbout": {
+    "title": "Tietoa meistä",
+    "description": "Multi-Apps Oy on suomalainen yritys, joka keskittyy mobiilisovellusten kehittämiseen. Uskomme, että hyvä sovellus on yksinkertainen, nopea ja yksityisyyttä kunnioittava. Kaikki sovelluksemme on suunniteltu toimimaan ilman tilejä ja pilvipalveluja — tietosi pysyvät aina sinulla.",
+    "values": {
+      "privacy": {
+        "title": "Yksityisyys ensin",
+        "description": "Tietosi pysyvät laitteellasi. Ei pilvipalveluja, ei tiedonkeruuta."
+      },
+      "simplicity": {
+        "title": "Yksinkertaisuus",
+        "description": "Selkeä käyttöliittymä ja intuitiivinen toiminnallisuus."
+      },
+      "quality": {
+        "title": "Laatua ilmaiseksi",
+        "description": "Ammattitasoiset sovellukset ilman piilokustannuksia."
+      }
+    }
+  },
+  "companyCta": {
+    "title": "Kiinnostuitko?",
+    "subtitle": "Ota yhteyttä ja kerromme lisää tuotteistamme.",
+    "button": "Ota yhteyttä"
+  },
+  "contactPage": {
+    "title": "Yhteystiedot",
+    "subtitle": "Otamme mielellämme yhteyttä. Lähetä meille viesti tai käytä alla olevia yhteystietoja.",
+    "info": {
+      "title": "Yhteystiedot",
+      "company": "Multi-Apps Oy",
+      "email": "Sähköposti",
+      "location": "Sijainti",
+      "locationValue": "Suomi"
+    },
+    "form": {
+      "title": "Lähetä viesti",
+      "name": "Nimi",
+      "namePlaceholder": "Nimesi",
+      "email": "Sähköposti",
+      "emailPlaceholder": "sinun@email.fi",
+      "message": "Viesti",
+      "messagePlaceholder": "Kirjoita viestisi tähän...",
+      "submit": "Lähetä viesti",
+      "success": "Viesti lähetetty! Otamme yhteyttä mahdollisimman pian."
+    }
+  },
+  "hero": {
+    "headline": "Kaikki työkortit yhdessä paikassa",
+    "subheadline": "Kuvaa fyysinen korttisi, tallenna se digitaaliseen lompakkoon ja näytä se aina kun tarvitset — nopeasti ja helposti.",
+    "screenshotPlaceholder": "Kuvakaappaus tulossa"
+  },
+  "features": {
+    "title": "Kaikki mitä tarvitset",
+    "subtitle": "KorttiApp tarjoaa kattavat ominaisuudet työkorttien hallintaan.",
+    "items": {
+      "wallet": {
+        "title": "Digitaalinen lompakko",
+        "description": "Selaa korttejasi kauniissa lompakkonäkymässä. Napauta korttia nähdäksesi sen koko näytöllä."
+      },
+      "capture": {
+        "title": "Älykäs kuvaus",
+        "description": "Kuvaa kortti kameralla tai tuo kuva galleriasta. Sovellus tunnistaa kortin reunat ja rajaa kuvan automaattisesti."
+      },
+      "expiration": {
+        "title": "Voimassaoloseuranta",
+        "description": "Näe yhdellä silmäyksellä, mitkä korttisi ovat voimassa, vanhentumassa tai jo vanhentuneet."
+      },
+      "pdf": {
+        "title": "PDF-jakaminen",
+        "description": "Luo ammattimainen PDF valituista korteista ja jaa se sähköpostilla, viestillä tai muulla tavalla."
+      },
+      "darkMode": {
+        "title": "Tumma ja vaalea teema",
+        "description": "Sovellus tukee sekä tummaa että vaaleaa teemaa molemmilla alustoilla."
+      },
+      "share": {
+        "title": "Helppo jakaminen",
+        "description": "Jaa yksittäisen kortin kuva suoraan järjestelmän jakotoiminnolla."
+      }
+    }
+  },
+  "cardTypes": {
+    "title": "Tuetut korttityypit",
+    "subtitle": "KorttiApp tukee kaikkia yleisimpiä työkortteja — ja paljon muuta.",
+    "items": {
+      "tyoturvakortti": "Työturvakortti",
+      "tulityokortti": "Tulityökortti",
+      "tieturvakortti": "Tieturvakortti",
+      "ensiapukortti": "Ensiapukortti",
+      "valttikortti": "Valttikortti",
+      "perehdytykset": "Perehdytykset",
+      "other": "Ja mikä tahansa muu kortti"
+    }
+  },
+  "howItWorks": {
+    "title": "Näin se toimii",
+    "subtitle": "Korttien digitoiminen on helppoa ja nopeaa.",
+    "steps": {
+      "capture": {
+        "step": "Vaihe 1",
+        "title": "Kuvaa kortti",
+        "description": "Ota kuva kortista kameralla tai tuo se galleriasta. Sovellus rajaa ja tunnistaa kortin automaattisesti."
+      },
+      "browse": {
+        "step": "Vaihe 2",
+        "title": "Selaa lompakkoa",
+        "description": "Kaikki korttisi ovat helposti selattavissa kauniissa lompakkonäkymässä. Näe voimassaolotiedot yhdellä silmäyksellä."
+      },
+      "share": {
+        "step": "Vaihe 3",
+        "title": "Näytä ja jaa",
+        "description": "Näytä korttisi koko näytöllä tai luo PDF usean kortin jakamista varten."
+      }
+    }
+  },
+  "cta": {
+    "title": "Lataa KorttiApp ilmaiseksi",
+    "subtitle": "Aloita korttien digitoiminen heti. Saatavilla iOS- ja Android-laitteille."
+  },
+  "featuresPage": {
+    "title": "Ominaisuudet",
+    "subtitle": "Kaikki mitä tarvitset työkorttien hallintaan — yhdessä sovelluksessa.",
+    "items": {
+      "walletView": {
+        "title": "Lompakkonäkymä",
+        "description": "Korttisi näytetään kauniina pinotussa lompakkonäkymässä. Napauta korttia laajentaaksesi sen koko näytölle."
+      },
+      "smartCapture": {
+        "title": "Älykäs kuvaus",
+        "description": "Kuvaa kortti kameralla tai tuo kuva galleriasta. Automaattinen reunantunnistus ja perspektiivikorjaus."
+      },
+      "ocrAutoFill": {
+        "title": "OCR-automaattitäyttö",
+        "description": "Sovellus lukee kortin nimen ja voimassaolopäivän automaattisesti kuvasta."
+      },
+      "expirationTracking": {
+        "title": "Voimassaoloseuranta",
+        "description": "Värikoodattu voimassaolostatus: vihreä (voimassa), oranssi (vanhenee pian) ja punainen (vanhentunut)."
+      },
+      "pdfSharing": {
+        "title": "PDF-jakaminen",
+        "description": "Luo ammattimainen monisivuinen PDF valituista korteista. Jaa sähköpostilla, viestillä tai muulla tavalla."
+      },
+      "imageSharing": {
+        "title": "Kuvajakaminen",
+        "description": "Jaa yksittäisen kortin kuva suoraan järjestelmän jakotoiminnolla."
+      },
+      "pdfImport": {
+        "title": "PDF-tuonti",
+        "description": "Tuo kortteja suoraan PDF-tiedostoista."
+      },
+      "reordering": {
+        "title": "Järjestyksen muuttaminen",
+        "description": "Pidä painettuna ja vedä kortteja haluamaasi järjestykseen. Järjestys tallentuu automaattisesti."
+      },
+      "orientations": {
+        "title": "Perehdytykset",
+        "description": "Tallenna myös perehdytysdokumentit ja todistukset A4-muodossa."
+      },
+      "privacy": {
+        "title": "Yksityisyys ensin",
+        "description": "Kaikki tiedot pysyvät laitteellasi. Ei pilvipalveluja, ei tilejä, ei tiedonkeruuta."
+      }
+    }
+  },
+  "pricingPage": {
+    "title": "Hinnoittelu",
+    "subtitle": "KorttiApp on täysin ilmainen.",
+    "plan": {
+      "name": "Ilmainen",
+      "price": "0 €",
+      "period": "ikuisesti",
+      "description": "Kaikki ominaisuudet ilmaiseksi, ilman mainoksia.",
+      "features": {
+        "unlimited": "Rajaton määrä kortteja",
+        "capture": "Älykäs kuvaus ja OCR",
+        "expiration": "Voimassaoloseuranta",
+        "pdf": "PDF-jakaminen",
+        "share": "Kuvajakaminen",
+        "reorder": "Korttien järjestäminen",
+        "darkMode": "Tumma ja vaalea teema",
+        "noAds": "Ei mainoksia",
+        "noAccount": "Ei tiliä tarvita"
+      }
+    },
+    "cta": "Lataa ilmaiseksi"
+  },
+  "privacyPage": {
+    "title": "Tietosuojaseloste",
+    "lastUpdated": "Päivitetty viimeksi: 23.2.2026",
+    "sections": {
+      "intro": {
+        "title": "1. Yleistä",
+        "content": "Multi-Apps Oy kunnioittaa käyttäjiensä yksityisyyttä. Tämä tietosuojaseloste kuvaa, miten sovelluksemme käsittelevät tietoja."
+      },
+      "dataCollection": {
+        "title": "2. Tietojen kerääminen",
+        "content": "Sovelluksemme eivät kerää, lähetä eivätkä tallenna mitään käyttäjätietoja palvelimille. Kaikki tiedot — mukaan lukien kuvat, nimet ja muut tiedot — tallennetaan ainoastaan käyttäjän laitteelle."
+      },
+      "localStorage": {
+        "title": "3. Paikallinen tallennus",
+        "content": "Kaikki tiedot tallennetaan laitteen omaan sovellussäilöön (sandboxed storage). Tietoja ei synkronoida pilveen eikä jaeta kolmansien osapuolten kanssa."
+      },
+      "camera": {
+        "title": "4. Kamera ja kuvagalleria",
+        "content": "Sovellukset voivat pyytää pääsyä kameraan ja kuvagalleriaan. Kuvia käytetään ainoastaan sovelluksen toimintoihin."
+      },
+      "sharing": {
+        "title": "5. Jakaminen",
+        "content": "Kun käyttäjä jakaa tietoja, ne lähetetään käyttäjän valitseman jakokanavan kautta. Sovelluksemme eivät itse lähetä tietoja mihinkään."
+      },
+      "analytics": {
+        "title": "6. Analytiikka ja mainokset",
+        "content": "Sovelluksemme eivät sisällä analytiikkaseurantaa, mainosjärjestelmiä eivätkä kolmansien osapuolten SDK:ita, jotka keräisivät tietoja."
+      },
+      "children": {
+        "title": "7. Lapset",
+        "content": "Sovellukset eivät ole suunnattu lapsille eivätkä kerää tietoja lapsista."
+      },
+      "changes": {
+        "title": "8. Muutokset",
+        "content": "Tätä tietosuojaselostetta voidaan päivittää tarvittaessa. Muutoksista ilmoitetaan sovellusten päivityksen yhteydessä."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Käyttöehdot",
+    "lastUpdated": "Päivitetty viimeksi: 23.2.2026",
+    "sections": {
+      "acceptance": {
+        "title": "1. Ehtojen hyväksyminen",
+        "content": "Käyttämällä Multi-Apps Oy:n sovelluksia hyväksyt nämä käyttöehdot. Jos et hyväksy ehtoja, älä käytä sovelluksia."
+      },
+      "description": {
+        "title": "2. Palvelun kuvaus",
+        "content": "Multi-Apps Oy kehittää mobiilisovelluksia, jotka toimivat paikallisesti käyttäjän laitteella. Sovellukset eivät vaadi internet-yhteyttä perustoimintoihin."
+      },
+      "usage": {
+        "title": "3. Käyttöoikeus",
+        "content": "Sinulle myönnetään rajoitettu, ei-yksinomainen, ei-siirrettävä lisenssi sovellusten käyttöön henkilökohtaisiin ja ammatillisiin tarkoituksiin."
+      },
+      "userResponsibility": {
+        "title": "4. Käyttäjän vastuut",
+        "content": "Olet vastuussa sovelluksiin tallentamistasi tiedoista. Multi-Apps Oy ei vastaa tietojen oikeellisuudesta tai soveltuvuudesta virallisiin tarkoituksiin."
+      },
+      "intellectualProperty": {
+        "title": "5. Immateriaalioikeudet",
+        "content": "Multi-Apps Oy:n sovellukset ja niiden sisältö ovat tekijänoikeussuojattuja. Sovelluksia ei saa kopioida, muokata tai jaella ilman lupaa."
+      },
+      "disclaimer": {
+        "title": "6. Vastuunrajoitus",
+        "content": "Sovellukset tarjotaan \"sellaisenaan\" ilman takuita. Emme vastaa sovellusten käytöstä mahdollisesti aiheutuvista vahingoista tai tietojen menetyksestä."
+      },
+      "dataHandling": {
+        "title": "7. Tietojen käsittely",
+        "content": "Kaikki tiedot tallennetaan paikallisesti laitteellesi. Emme käytä palvelimia emmekä kerää tietojasi. Katso tarkemmat tiedot tietosuojaselosteesta."
+      },
+      "appStore": {
+        "title": "8. Sovelluskauppojen ehdot",
+        "content": "Sovellusten lataaminen ja käyttö tapahtuu Apple App Storen tai Google Play Kaupan kautta, ja niihin sovelletaan kyseisten palveluiden omia käyttöehtoja."
+      },
+      "modifications": {
+        "title": "9. Muutokset ehtoihin",
+        "content": "Pidätämme oikeuden muuttaa näitä ehtoja. Muutokset tulevat voimaan, kun ne julkaistaan sovellusten päivityksen yhteydessä."
+      },
+      "law": {
+        "title": "10. Sovellettava laki",
+        "content": "Näihin ehtoihin sovelletaan Suomen lakia. Mahdolliset erimielisyydet ratkaistaan Suomen tuomioistuimissa."
+      }
+    }
+  },
+  "footer": {
+    "description": "Kehitämme käytännöllisiä mobiilisovelluksia arkeen ja työhön.",
+    "products": "Tuotteet",
+    "company": "Yritys",
+    "legal": "Oikeudelliset",
+    "korttiApp": "KorttiApp",
+    "contact": "Yhteystiedot",
+    "privacy": "Tietosuoja",
+    "terms": "Käyttöehdot",
+    "downloadTitle": "Lataa",
+    "rights": "Kaikki oikeudet pidätetään."
+  }
+}

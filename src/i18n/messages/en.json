@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Multi-Apps Oy — Mobile Apps for Work and Life",
+      "description": "Multi-Apps Oy develops practical mobile applications. Explore our products and get in touch."
+    },
+    "korttiApp": {
+      "title": "KorttiApp — Digital Wallet for Work Cards",
+      "description": "KorttiApp is a digital wallet for work certification cards. Photograph your cards, store them in one place, and show them whenever you need."
+    },
+    "features": {
+      "title": "Features — KorttiApp",
+      "description": "Explore KorttiApp features: digital wallet, automatic detection, PDF sharing, and much more."
+    },
+    "pricing": {
+      "title": "Pricing — KorttiApp",
+      "description": "KorttiApp is completely free. Download the app and start digitizing your cards right away."
+    },
+    "contact": {
+      "title": "Contact — Multi-Apps Oy",
+      "description": "Get in touch with Multi-Apps Oy. We're happy to tell you more about our products and services."
+    },
+    "privacy": {
+      "title": "Privacy Policy — Multi-Apps Oy",
+      "description": "Multi-Apps Oy privacy policy. All data stays on your device — no cloud, no accounts."
+    },
+    "terms": {
+      "title": "Terms of Service — Multi-Apps Oy",
+      "description": "Multi-Apps Oy terms of service. Read the terms before using our apps."
+    }
+  },
+  "nav": {
+    "products": "Products",
+    "contact": "Contact",
+    "download": "Download App"
+  },
+  "companyHero": {
+    "headline": "We build apps that make your life easier",
+    "subheadline": "Multi-Apps Oy is a Finnish software company building practical mobile applications for professionals and consumers."
+  },
+  "companyProducts": {
+    "title": "Our Products",
+    "subtitle": "Apps that solve real problems.",
+    "korttiApp": {
+      "title": "KorttiApp",
+      "description": "A digital wallet for work cards. Capture, store, and share your work certification cards easily and securely.",
+      "cta": "Learn more"
+    },
+    "comingSoon": {
+      "title": "More coming soon",
+      "description": "We're constantly developing new apps. Stay tuned!"
+    }
+  },
+  "companyAbout": {
+    "title": "About Us",
+    "description": "Multi-Apps Oy is a Finnish company focused on mobile app development. We believe a great app is simple, fast, and respects your privacy. All our apps are designed to work without accounts or cloud services — your data always stays with you.",
+    "values": {
+      "privacy": {
+        "title": "Privacy First",
+        "description": "Your data stays on your device. No cloud, no data collection."
+      },
+      "simplicity": {
+        "title": "Simplicity",
+        "description": "Clean interface and intuitive functionality."
+      },
+      "quality": {
+        "title": "Quality for Free",
+        "description": "Professional-grade apps without hidden costs."
+      }
+    }
+  },
+  "companyCta": {
+    "title": "Interested?",
+    "subtitle": "Get in touch and we'll tell you more about our products.",
+    "button": "Contact Us"
+  },
+  "contactPage": {
+    "title": "Contact",
+    "subtitle": "We'd love to hear from you. Send us a message or use the contact details below.",
+    "info": {
+      "title": "Contact Information",
+      "company": "Multi-Apps Oy",
+      "email": "Email",
+      "location": "Location",
+      "locationValue": "Finland"
+    },
+    "form": {
+      "title": "Send a Message",
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "you@email.com",
+      "message": "Message",
+      "messagePlaceholder": "Write your message here...",
+      "submit": "Send Message",
+      "success": "Message sent! We'll get back to you as soon as possible."
+    }
+  },
+  "hero": {
+    "headline": "All your work cards in one place",
+    "subheadline": "Photograph your physical card, save it in a digital wallet, and show it whenever you need — fast and easy.",
+    "screenshotPlaceholder": "Screenshot coming soon"
+  },
+  "features": {
+    "title": "Everything you need",
+    "subtitle": "KorttiApp offers comprehensive features for managing your work cards.",
+    "items": {
+      "wallet": {
+        "title": "Digital Wallet",
+        "description": "Browse your cards in a beautiful wallet view. Tap a card to view it full screen."
+      },
+      "capture": {
+        "title": "Smart Capture",
+        "description": "Photograph a card with the camera or import from gallery. The app detects card edges and crops automatically."
+      },
+      "expiration": {
+        "title": "Expiration Tracking",
+        "description": "See at a glance which cards are valid, expiring soon, or already expired."
+      },
+      "pdf": {
+        "title": "PDF Sharing",
+        "description": "Generate a professional PDF from selected cards and share via email, messaging, or any other method."
+      },
+      "darkMode": {
+        "title": "Dark & Light Theme",
+        "description": "The app supports both dark and light themes on both platforms."
+      },
+      "share": {
+        "title": "Easy Sharing",
+        "description": "Share a single card image directly via the system share sheet."
+      }
+    }
+  },
+  "cardTypes": {
+    "title": "Supported Card Types",
+    "subtitle": "KorttiApp supports all common work certification cards — and much more.",
+    "items": {
+      "tyoturvakortti": "Occupational Safety Card",
+      "tulityokortti": "Hot Work Permit Card",
+      "tieturvakortti": "Road Safety Card",
+      "ensiapukortti": "First Aid Card",
+      "valttikortti": "Workforce Competence Card",
+      "perehdytykset": "Site Orientations",
+      "other": "And any other card"
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Digitizing your cards is quick and easy.",
+    "steps": {
+      "capture": {
+        "step": "Step 1",
+        "title": "Capture Your Card",
+        "description": "Take a photo with the camera or import from gallery. The app automatically detects and crops the card."
+      },
+      "browse": {
+        "step": "Step 2",
+        "title": "Browse Your Wallet",
+        "description": "All your cards are easy to browse in a beautiful wallet view. See expiration status at a glance."
+      },
+      "share": {
+        "step": "Step 3",
+        "title": "Show & Share",
+        "description": "Show your card full screen or generate a PDF for sharing multiple cards."
+      }
+    }
+  },
+  "cta": {
+    "title": "Download KorttiApp for Free",
+    "subtitle": "Start digitizing your cards today. Available for iOS and Android."
+  },
+  "featuresPage": {
+    "title": "Features",
+    "subtitle": "Everything you need for managing your work cards — in one app.",
+    "items": {
+      "walletView": {
+        "title": "Wallet View",
+        "description": "Your cards are displayed in a beautiful stacked wallet view. Tap a card to expand it full screen."
+      },
+      "smartCapture": {
+        "title": "Smart Capture",
+        "description": "Photograph a card with the camera or import from gallery. Automatic edge detection and perspective correction."
+      },
+      "ocrAutoFill": {
+        "title": "OCR Auto-fill",
+        "description": "The app automatically reads the card name and expiration date from the photo."
+      },
+      "expirationTracking": {
+        "title": "Expiration Tracking",
+        "description": "Color-coded expiration status: green (valid), orange (expiring soon), and red (expired)."
+      },
+      "pdfSharing": {
+        "title": "PDF Sharing",
+        "description": "Generate a professional multi-page PDF from selected cards. Share via email, messaging, or any other method."
+      },
+      "imageSharing": {
+        "title": "Image Sharing",
+        "description": "Share a single card image directly via the system share sheet."
+      },
+      "pdfImport": {
+        "title": "PDF Import",
+        "description": "Import cards directly from PDF files."
+      },
+      "reordering": {
+        "title": "Reordering",
+        "description": "Long-press and drag cards into your preferred order. Order is saved automatically."
+      },
+      "orientations": {
+        "title": "Orientations",
+        "description": "Also store orientation documents and certificates in A4 format."
+      },
+      "privacy": {
+        "title": "Privacy First",
+        "description": "All data stays on your device. No cloud, no accounts, no data collection."
+      }
+    }
+  },
+  "pricingPage": {
+    "title": "Pricing",
+    "subtitle": "KorttiApp is completely free.",
+    "plan": {
+      "name": "Free",
+      "price": "€0",
+      "period": "forever",
+      "description": "All features for free, without ads.",
+      "features": {
+        "unlimited": "Unlimited cards",
+        "capture": "Smart capture & OCR",
+        "expiration": "Expiration tracking",
+        "pdf": "PDF sharing",
+        "share": "Image sharing",
+        "reorder": "Card reordering",
+        "darkMode": "Dark & light theme",
+        "noAds": "No ads",
+        "noAccount": "No account required"
+      }
+    },
+    "cta": "Download for Free"
+  },
+  "privacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: February 23, 2026",
+    "sections": {
+      "intro": {
+        "title": "1. General",
+        "content": "Multi-Apps Oy respects the privacy of its users. This privacy policy describes how our apps handle data."
+      },
+      "dataCollection": {
+        "title": "2. Data Collection",
+        "content": "Our apps do not collect, transmit, or store any user data on servers. All data — including images, names, and other information — is stored only on the user's device."
+      },
+      "localStorage": {
+        "title": "3. Local Storage",
+        "content": "All data is stored in the device's sandboxed app storage. Data is not synced to the cloud or shared with third parties."
+      },
+      "camera": {
+        "title": "4. Camera and Photo Library",
+        "content": "Apps may request access to the camera and photo library. Images are used only for in-app functionality."
+      },
+      "sharing": {
+        "title": "5. Sharing",
+        "content": "When a user shares data, it is sent through the sharing channel chosen by the user. Our apps do not send data anywhere on their own."
+      },
+      "analytics": {
+        "title": "6. Analytics and Advertising",
+        "content": "Our apps do not include analytics tracking, advertising systems, or third-party SDKs that collect data."
+      },
+      "children": {
+        "title": "7. Children",
+        "content": "Our apps are not directed at children and do not collect data from children."
+      },
+      "changes": {
+        "title": "8. Changes",
+        "content": "This privacy policy may be updated as needed. Changes will be communicated through app updates."
+      }
+    }
+  },
+  "termsPage": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: February 23, 2026",
+    "sections": {
+      "acceptance": {
+        "title": "1. Acceptance of Terms",
+        "content": "By using Multi-Apps Oy applications, you accept these terms of service. If you do not accept the terms, do not use the applications."
+      },
+      "description": {
+        "title": "2. Service Description",
+        "content": "Multi-Apps Oy develops mobile applications that work locally on the user's device. The apps do not require an internet connection for basic functions."
+      },
+      "usage": {
+        "title": "3. License",
+        "content": "You are granted a limited, non-exclusive, non-transferable license to use the applications for personal and professional purposes."
+      },
+      "userResponsibility": {
+        "title": "4. User Responsibilities",
+        "content": "You are responsible for the data you store in the applications. Multi-Apps Oy is not responsible for the accuracy or suitability of data for official purposes."
+      },
+      "intellectualProperty": {
+        "title": "5. Intellectual Property",
+        "content": "Multi-Apps Oy applications and their content are protected by copyright. The applications may not be copied, modified, or distributed without permission."
+      },
+      "disclaimer": {
+        "title": "6. Disclaimer",
+        "content": "The applications are provided \"as is\" without warranties. We are not liable for any damages or data loss that may result from using the applications."
+      },
+      "dataHandling": {
+        "title": "7. Data Handling",
+        "content": "All data is stored locally on your device. We do not use servers and do not collect your data. See the privacy policy for more details."
+      },
+      "appStore": {
+        "title": "8. App Store Terms",
+        "content": "Downloading and using the applications occurs through the Apple App Store or Google Play Store, and their respective terms of service apply."
+      },
+      "modifications": {
+        "title": "9. Modifications to Terms",
+        "content": "We reserve the right to modify these terms. Changes take effect when published with an app update."
+      },
+      "law": {
+        "title": "10. Governing Law",
+        "content": "These terms are governed by the laws of Finland. Any disputes shall be resolved in Finnish courts."
+      }
+    }
+  },
+  "footer": {
+    "description": "We develop practical mobile applications for work and life.",
+    "products": "Products",
+    "company": "Company",
+    "legal": "Legal",
+    "korttiApp": "KorttiApp",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "downloadTitle": "Download",
+    "rights": "All rights reserved."
+  }
+}
