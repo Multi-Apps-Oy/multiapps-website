@@ -35,20 +35,17 @@
     "download": "Lataa sovellus"
   },
   "companyHero": {
-    "headline": "Kehitämme sovelluksia, jotka helpottavat arkeasi",
-    "subheadline": "Multi-Apps Oy on suomalainen ohjelmistoyritys, joka rakentaa käytännöllisiä mobiilisovelluksia ammattilaisille ja kuluttajille."
+    "headline": "Multi-Apps Oy"
   },
   "companyProducts": {
     "title": "Tuotteemme",
-    "subtitle": "Sovellukset, jotka ratkaisevat todellisia ongelmia.",
     "korttiApp": {
       "title": "KorttiApp",
       "description": "Digitaalinen lompakko työkorteille. Kuvaa, tallenna ja jaa työkorttisi helposti ja turvallisesti.",
       "cta": "Lue lisää"
     },
     "comingSoon": {
-      "title": "Lisää tulossa",
-      "description": "Kehitämme jatkuvasti uusia sovelluksia. Pysy kuulolla!"
+      "title": "Lisää tulossa"
     }
   },
   "companyAbout": {
@@ -76,11 +73,11 @@
   },
   "contactPage": {
     "title": "Yhteystiedot",
-    "subtitle": "Otamme mielellämme yhteyttä. Lähetä meille viesti tai käytä alla olevia yhteystietoja.",
     "info": {
       "title": "Yhteystiedot",
       "company": "Multi-Apps Oy",
       "email": "Sähköposti",
+      "businessId": "Y-tunnus",
       "location": "Sijainti",
       "locationValue": "Suomi"
     },
@@ -322,7 +319,6 @@
     }
   },
   "footer": {
-    "description": "Kehitämme käytännöllisiä mobiilisovelluksia arkeen ja työhön.",
     "products": "Tuotteet",
     "company": "Yritys",
     "legal": "Oikeudelliset",

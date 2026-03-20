@@ -15,25 +15,6 @@ export function Footer() {
             <p className="text-lg font-bold tracking-tight">
               <span className="gradient-text">{SITE_NAME}</span>
             </p>
-            <p className="mt-2 text-sm text-muted-foreground">{t('footer.description')}</p>
-          </div>
-
-          <div>
-            <h3 className="mb-3 text-sm font-semibold uppercase tracking-wider text-muted-foreground">
-              {t('footer.products')}
-            </h3>
-            <ul className="space-y-2">
-              {FOOTER_LINKS.products.map((link) => (
-                <li key={link.href}>
-                  <Link
-                    href={link.href}
-                    className="text-sm text-muted-foreground transition-colors hover:text-foreground"
-                  >
-                    {t(link.labelKey)}
-                  </Link>
-                </li>
-              ))}
-            </ul>
           </div>
 
           <div>

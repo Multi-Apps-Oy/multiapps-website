@@ -35,20 +35,17 @@
     "download": "Download App"
   },
   "companyHero": {
-    "headline": "We build apps that make your life easier",
-    "subheadline": "Multi-Apps Oy is a Finnish software company building practical mobile applications for professionals and consumers."
+    "headline": "Multi-Apps Oy"
   },
   "companyProducts": {
     "title": "Our Products",
-    "subtitle": "Apps that solve real problems.",
     "korttiApp": {
       "title": "KorttiApp",
       "description": "A digital wallet for work cards. Capture, store, and share your work certification cards easily and securely.",
       "cta": "Learn more"
     },
     "comingSoon": {
-      "title": "More coming soon",
-      "description": "We're constantly developing new apps. Stay tuned!"
+      "title": "More coming soon"
     }
   },
   "companyAbout": {
@@ -76,11 +73,11 @@
   },
   "contactPage": {
     "title": "Contact",
-    "subtitle": "We'd love to hear from you. Send us a message or use the contact details below.",
     "info": {
       "title": "Contact Information",
       "company": "Multi-Apps Oy",
       "email": "Email",
+      "businessId": "Business ID",
       "location": "Location",
       "locationValue": "Finland"
     },
@@ -322,7 +319,6 @@
     }
   },
   "footer": {
-    "description": "We develop practical mobile applications for work and life.",
     "products": "Products",
     "company": "Company",
     "legal": "Legal",

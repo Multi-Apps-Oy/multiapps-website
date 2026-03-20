@@ -6,14 +6,11 @@ export const APP_STORE_URL = '#'; // Placeholder — replace with real App Store
 export const GOOGLE_PLAY_URL = '#'; // Placeholder — replace with real Google Play URL
 
 export const NAV_ITEMS = [
-  { labelKey: 'nav.products', href: '/kortti-app' as const },
   { labelKey: 'nav.contact', href: '/yhteystiedot' as const },
 ] as const;
 
 export const FOOTER_LINKS = {
-  products: [
-    { labelKey: 'footer.korttiApp', href: '/kortti-app' as const },
-  ],
+  products: [] as ReadonlyArray<{ labelKey: string; href: string }>,
   company: [
     { labelKey: 'footer.contact', href: '/yhteystiedot' as const },
   ],
