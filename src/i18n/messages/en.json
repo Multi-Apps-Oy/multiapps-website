@@ -27,6 +27,14 @@
     "terms": {
       "title": "Terms of Service — Multi-Apps Oy",
       "description": "Multi-Apps Oy terms of service. Read the terms before using our apps."
+    },
+    "roadpointTerms": {
+      "title": "RoadPoint Terms of Service — Multi-Apps Oy",
+      "description": "Terms of service for the RoadPoint mobile application. Read the terms before using the app."
+    },
+    "roadpointPrivacy": {
+      "title": "RoadPoint Privacy Policy — Multi-Apps Oy",
+      "description": "Privacy policy for the RoadPoint mobile application. Learn how the app handles your data."
     }
   },
   "nav": {
@@ -318,6 +326,216 @@
       }
     }
   },
+  "roadpointPrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: April 5, 2025",
+    "sections": {
+      "general": {
+        "title": "1. General",
+        "content": "Multi-Apps Oy respects the privacy of its users. This privacy policy describes how our applications handle data."
+      },
+      "controller": {
+        "title": "2. Data Controller",
+        "content": "The data controller is:",
+        "company": "Multi-Apps Oy",
+        "address": "Korvenpäänraitti 3",
+        "city": "42600 Multia",
+        "emailLabel": "Email",
+        "email": "support@multiapps.fi"
+      },
+      "dataCollection": {
+        "title": "3. Data Collection",
+        "content": "Our applications do not collect, transmit, or store user data on our own servers, except for the license functionality described in section 6. All other data — including images, names, and other information — is stored only on the user's device."
+      },
+      "localStorage": {
+        "title": "4. Local Storage",
+        "content": "All data is stored in the device's sandboxed app storage. Data is not synced to the cloud or shared with third parties. When the user uninstalls the application, all data stored by the application is permanently removed from the device."
+      },
+      "externalApis": {
+        "title": "5. External APIs",
+        "content1": "To function, the applications retrieve data from third-party open APIs. The applications do not send any personal data to these services. However, it is possible that the servers of these services may log the user's IP address or other technical data as part of normal server logging. Multi-Apps Oy does not control these servers and cannot influence their logging practices.",
+        "content2": "To retrieve road address data, the location selected by the user on the map or the device's GNSS location is sent to a third-party server. Location data is used solely for determining the road address and is not stored by Multi-Apps Oy."
+      },
+      "licenseCode": {
+        "title": "6. License Code",
+        "content": "When the user activates a license code, an anonymized device identifier is stored in Multi-Apps Oy's database for the duration of the license validity. This identifier is used solely for verifying license validity. The identifier is anonymized and cannot be linked to the user's identity. The identifier is automatically removed from the database when the license expires."
+      },
+      "camera": {
+        "title": "7. Camera and Photo Library",
+        "content": "Applications may request access to the camera and photo library. These permissions are used only for adding user-selected images to the application. Images are not sent to servers or processed outside the application. The user can revoke these permissions at any time through device settings."
+      },
+      "sharing": {
+        "title": "8. Sharing",
+        "content": "The user can share content created in the application (such as images or data) through the device's built-in sharing functionality. In this case, data is sent through the sharing channel chosen by the user. Our applications do not send data anywhere on their own."
+      },
+      "analytics": {
+        "title": "9. Analytics and Advertising",
+        "content": "Our applications do not include analytics tracking, advertising systems, or third-party SDKs that collect data."
+      },
+      "security": {
+        "title": "10. Data Security",
+        "content": "Since data is stored only on the user's device in the application's own protected storage, data security relies on the device's own security mechanisms. We recommend that users keep their device's operating system up to date."
+      },
+      "children": {
+        "title": "11. Children",
+        "content": "Our applications are not specifically directed at children and do not collect data from children."
+      },
+      "gdpr": {
+        "title": "12. User Rights (GDPR)",
+        "content": "We comply with the EU General Data Protection Regulation. Since data is stored only on your device, you have full control over your data. You can:",
+        "inspect": {
+          "label": "Access your data:",
+          "content": "You can see all data directly in the application."
+        },
+        "delete": {
+          "label": "Delete your data:",
+          "content": "All data is removed when you uninstall the application from your device."
+        },
+        "consent": {
+          "label": "Withdraw consent:",
+          "content": "You can change camera and gallery permissions in your device settings at any time."
+        }
+      },
+      "changes": {
+        "title": "13. Changes",
+        "content": "This privacy policy may be updated as needed. Changes will be communicated through app updates."
+      },
+      "contact": {
+        "title": "14. Contact Information",
+        "content": "If you have questions about privacy, you can contact us:",
+        "company": "Multi-Apps Oy",
+        "emailLabel": "Email",
+        "email": "support@multiapps.fi"
+      }
+    }
+  },
+  "roadpointTermsPage": {
+    "title": "RoadPoint – Terms of Service",
+    "effectiveDate": "Effective from: April 3, 2026",
+    "sections": {
+      "general": {
+        "title": "1. General",
+        "content": "These terms of service (\"Terms\") apply to the RoadPoint mobile application (\"Application\") provided by MultiApps (\"we\", \"our\"). By using the Application, you accept these Terms in their entirety. If you do not accept these Terms, do not use the Application."
+      },
+      "service": {
+        "title": "2. Service Description",
+        "content": "RoadPoint is a map application that displays road address information for Finland's road network. The Application retrieves data based on the user's location or map tap and displays metadata for the road point, such as road number, road section, distance, municipality, and road class.",
+        "internet": {
+          "title": "2.1 Internet Connection",
+          "content": "The Application requires a continuous internet connection to function. The Application retrieves map and road address data from external APIs in real time, and the Application does not work without a network connection. We are not responsible for the availability or quality of the internet connection."
+        },
+        "location": {
+          "title": "2.2 Location Services",
+          "content": "Some Application features, such as automatic road address lookup based on the user's location, require precise GNSS positioning (GPS). The accuracy of location data depends on the user's device, environmental conditions, and satellite availability. We are not responsible for positioning accuracy or resulting inaccuracies in road address data."
+        },
+        "availability": {
+          "title": "2.3 Geographic Availability",
+          "content1": "The service is designed for use in Finland, and its functionality elsewhere is not guaranteed."
+        }
+      },
+      "subscription": {
+        "title": "3. Subscription Model and Payments",
+        "plan": {
+          "title": "3.1 Subscription",
+          "content": "Using the Application requires an active subscription. The subscription is a monthly subscription that renews automatically at the end of each billing period."
+        },
+        "trial": {
+          "title": "3.2 Free Trial",
+          "content": "New subscribers may receive a free trial period. The trial period length is stated at the time of subscription. If the subscription is not cancelled before the trial period ends, the subscription becomes paid."
+        },
+        "payment": {
+          "title": "3.3 Payments and Billing",
+          "content": "Subscription fees are charged through the Apple App Store or Google Play Store using the payment method selected by the user. Prices may vary by region and include applicable taxes."
+        },
+        "cancellation": {
+          "title": "3.4 Cancellation",
+          "content": "The subscription can be cancelled at any time through device settings or the app store's subscription management. Cancellation takes effect at the end of the current billing period. Any refunds are handled in accordance with the app store's terms."
+        },
+        "license": {
+          "title": "3.5 License Codes",
+          "content": "The Application can also be used with a separate license code. License codes have a device-specific limitation. A license code entitles the user to use the Application according to the license code terms."
+        }
+      },
+      "externalServices": {
+        "title": "4. External Services and APIs",
+        "thirdParty": {
+          "title": "4.1 Third-Party APIs",
+          "content": "The Application uses external third-party APIs and services for retrieving and displaying data, including but not limited to:",
+          "item1": "Finnish Transport Infrastructure Agency's Viitekehysmuunnin API for road address data retrieval",
+          "item2": "OpenFreeMap for map tile display"
+        },
+        "disclaimer": {
+          "title": "4.2 Disclaimer for External Services",
+          "content1": "We do not own, control, or maintain the aforementioned external APIs and services. We cannot guarantee the continuous availability, functionality, accuracy, or error-free operation of these services. External services may experience outages, delays, or errors without prior notice, and this is beyond our control.",
+          "content2": "We are not liable for any damages or harm arising from the malfunction, availability issues, data inaccuracies, or other disruptions of external APIs or services.",
+          "content3": "External service providers may change their API terms, content, or availability without separate notice, which may affect the Application's functionality.",
+          "content4": "External APIs may impose rate limits. If an exceptionally large number of queries are made through the Application, the third-party API may temporarily limit or block data retrieval. In such situations, the Application's functionality may be limited, and this does not entitle the user to a refund or compensation."
+        }
+      },
+      "accuracy": {
+        "title": "5. Data Accuracy",
+        "content": "The road address data and other information displayed by the Application are based on data obtained from external sources. We do not guarantee the correctness, timeliness, or completeness of the data. The Application does not replace official data sources and should not be used as the sole source of information in decisions where data accuracy is of essential importance."
+      },
+      "userObligations": {
+        "title": "6. User Obligations",
+        "content": "The user agrees to:",
+        "item1": "Use the Application in accordance with these Terms and applicable legislation",
+        "item2": "Not attempt to circumvent the Application's technical protections or limitations",
+        "item3": "Not use the Application in a manner that places unreasonable load on the services",
+        "item4": "Not share license codes with third parties"
+      },
+      "liability": {
+        "title": "7. Limitation of Liability",
+        "content": "The Application is provided \"as is\" without any warranty. To the extent permitted by law, we are not liable for any direct, indirect, incidental, special, or consequential damages arising from the use of or inability to use the Application, including but not limited to:",
+        "item1": "Damages arising from data inaccuracies or incompleteness",
+        "item2": "Damages arising from service interruptions",
+        "item3": "Damages arising from external API malfunctions"
+      },
+      "suspension": {
+        "title": "8. Service Suspension and Termination",
+        "content1": "We reserve the right to suspend, limit, or terminate the Application's operation in whole or in part at any time, without prior notice and for any reason. This also applies to situations where external services cease to function or their terms change.",
+        "content2": "If the Application's operation is permanently terminated, we will endeavor to notify users within a reasonable time in advance. We are not obligated to compensate users for damages arising from service suspension or termination. Users have the right to cancel their subscription through the app store.",
+        "content3": "If the service is terminated during an active subscription period, any refunds are determined in accordance with the app store's terms."
+      },
+      "ip": {
+        "title": "9. Intellectual Property",
+        "content": "The Application and its content, including but not limited to source code, graphics, user interface, and documentation, are the property of MultiApps and protected under copyright law. A subscription or license code grants the user a limited, personal, and non-transferable right to use the Application."
+      },
+      "privacy": {
+        "title": "10. Privacy",
+        "contentBefore": "The processing of personal data related to the use of the Application is described in more detail in our ",
+        "link": "privacy policy",
+        "contentAfter": ". By using the Application, you accept the processing of data in accordance with the privacy policy."
+      },
+      "forceMajeure": {
+        "title": "11. Force Majeure",
+        "content": "We are not liable for delays or failure to fulfill our obligations if caused by force majeure. Force majeure is considered an event beyond our control that we could not have reasonably foreseen, including but not limited to:",
+        "item1": "Natural disasters, wars, or acts of terrorism",
+        "item2": "Legislative changes, government orders, or sanctions",
+        "item3": "Telecommunications disruptions, cyberattacks, or internet outages",
+        "item4": "Third-party API or service malfunctions or discontinuations",
+        "item5": "Pandemics, epidemics, or other similar emergencies",
+        "closing": "In a force majeure situation, we will endeavor to inform users of the obstacle and its estimated duration within a reasonable time."
+      },
+      "modifications": {
+        "title": "12. Modifications to Terms",
+        "content": "We reserve the right to modify these Terms. Users will be notified of material changes through the Application or by email. Continued use of the Application after changes constitutes acceptance of the modified Terms."
+      },
+      "law": {
+        "title": "13. Governing Law and Dispute Resolution",
+        "content": "These Terms are governed by the laws of Finland. Any disputes shall be resolved primarily through negotiation. If negotiations do not result in a settlement, the dispute shall be resolved in the Helsinki District Court."
+      },
+      "contact": {
+        "title": "14. Contact Information",
+        "content": "If you have questions about these Terms or the use of the Application, please contact:",
+        "company": "MultiApps",
+        "emailLabel": "Email",
+        "email": "support@multiapps.fi",
+        "websiteLabel": "Website",
+        "website": "https://multiapps.fi"
+      }
+    }
+  },
   "footer": {
     "products": "Products",
     "company": "Company",
@@ -326,6 +544,8 @@
     "contact": "Contact",
     "privacy": "Privacy",
     "terms": "Terms",
+    "roadpointTerms": "RoadPoint Terms",
+    "roadpointPrivacy": "RoadPoint Privacy",
     "downloadTitle": "Download",
     "rights": "All rights reserved."
   }

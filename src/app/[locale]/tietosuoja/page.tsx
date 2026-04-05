@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: PageProps) {
 export default async function PrivacyPage({ params }: PageProps) {
   const { locale } = await params;
   setRequestLocale(locale);
-  const t = await getTranslations({ locale, namespace: 'privacyPage' });
+  const t = await getTranslations({ locale: 'fi', namespace: 'privacyPage' });
 
   const breadcrumbs =
     locale === 'fi'

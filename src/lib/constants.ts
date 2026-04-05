@@ -17,5 +17,7 @@ export const FOOTER_LINKS = {
   legal: [
     { labelKey: 'footer.privacy', href: '/tietosuoja' as const },
     { labelKey: 'footer.terms', href: '/ehdot' as const },
+    { labelKey: 'footer.roadpointTerms', href: '/roadpoint-ehdot' as const },
+    { labelKey: 'footer.roadpointPrivacy', href: '/roadpoint-tietosuojaseloste' as const },
   ],
 } as const;

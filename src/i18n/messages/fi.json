@@ -27,6 +27,14 @@
     "terms": {
       "title": "Käyttöehdot — Multi-Apps Oy",
       "description": "Multi-Apps Oy:n käyttöehdot. Lue ehdot ennen sovellusten käyttöä."
+    },
+    "roadpointTerms": {
+      "title": "RoadPoint Käyttöehdot — Multi-Apps Oy",
+      "description": "RoadPoint-mobiilisovelluksen käyttöehdot. Lue ehdot ennen sovelluksen käyttöä."
+    },
+    "roadpointPrivacy": {
+      "title": "RoadPoint Tietosuojaseloste — Multi-Apps Oy",
+      "description": "RoadPoint-mobiilisovelluksen tietosuojaseloste. Lue miten sovellus käsittelee tietojasi."
     }
   },
   "nav": {
@@ -318,6 +326,216 @@
       }
     }
   },
+  "roadpointPrivacyPage": {
+    "title": "Tietosuojaseloste",
+    "lastUpdated": "Päivitetty viimeksi: 5.4.2025",
+    "sections": {
+      "general": {
+        "title": "1. Yleistä",
+        "content": "Multi-Apps Oy kunnioittaa käyttäjiensä yksityisyyttä. Tämä tietosuojaseloste kuvaa, miten sovelluksemme käsittelevät tietoja."
+      },
+      "controller": {
+        "title": "2. Rekisterinpitäjä",
+        "content": "Rekisterinpitäjänä toimii:",
+        "company": "Multi-Apps Oy",
+        "address": "Korvenpäänraitti 3",
+        "city": "42600 Multia",
+        "emailLabel": "Sähköposti",
+        "email": "support@multiapps.fi"
+      },
+      "dataCollection": {
+        "title": "3. Tietojen kerääminen",
+        "content": "Sovelluksemme eivät kerää, lähetä eivätkä tallenna käyttäjätietoja omille palvelimillemme, lukuun ottamatta kohdassa 6 kuvattua lisenssitoimintoa. Kaikki muu tieto — mukaan lukien kuvat, nimet ja muut tiedot — tallennetaan ainoastaan käyttäjän laitteelle."
+      },
+      "localStorage": {
+        "title": "4. Paikallinen tallennus",
+        "content": "Kaikki tiedot tallennetaan laitteen omaan sovellussäilöön (sandboxed storage). Tietoja ei synkronoida pilveen eikä jaeta kolmansien osapuolten kanssa. Kun käyttäjä poistaa sovelluksen, kaikki sovelluksen tallentamat tiedot poistuvat laitteelta pysyvästi."
+      },
+      "externalApis": {
+        "title": "5. Ulkoiset rajapinnat",
+        "content1": "Toimiakseen sovellukset hakevat tietoja kolmansien osapuolten avoimista rajapinnoista. Sovellukset eivät lähetä näihin palveluihin mitään henkilötietoja. On kuitenkin mahdollista, että kyseisten palveluiden palvelimet tallentavat käyttäjän IP-osoitteen tai muita teknisiä tietoja osana normaalia palvelinlokitusta. Multi-Apps Oy ei hallinnoi näitä palvelimia eikä voi vaikuttaa niiden lokikäytäntöihin.",
+        "content2": "Tieosoitteiston hakemiseksi käyttäjän kartalta valitsema sijainti tai laitteen GNSS-sijainti lähetetään kolmannen osapuolen palvelimelle. Sijaintitietoa käytetään ainoastaan tieosoitteen määrittämiseen eikä sitä tallenneta Multi-Apps Oy:n toimesta."
+      },
+      "licenseCode": {
+        "title": "6. Lisenssikoodi",
+        "content": "Kun käyttäjä aktivoi lisenssikoodin, laitteen anonymisoitu tunnus tallennetaan Multi-Apps Oy:n tietokantaan lisenssin voimassaolon ajaksi. Tätä tunnusta käytetään ainoastaan lisenssin voimassaolon tarkistamiseen. Tunnus on anonymisoitu eikä sitä voi yhdistää käyttäjän henkilöllisyyteen. Tunnus poistetaan tietokannasta automaattisesti lisenssin päätyttyä."
+      },
+      "camera": {
+        "title": "7. Kamera ja kuvagalleria",
+        "content": "Sovellukset voivat pyytää pääsyä kameraan ja kuvagalleriaan. Näitä oikeuksia käytetään ainoastaan käyttäjän valitsemien kuvien lisäämiseen sovellukseen. Kuvia ei lähetetä palvelimille eikä niitä käsitellä sovelluksen ulkopuolella. Käyttäjä voi milloin tahansa peruuttaa nämä oikeudet laitteen asetuksista."
+      },
+      "sharing": {
+        "title": "8. Jakaminen",
+        "content": "Käyttäjä voi jakaa sovelluksessa luotua sisältöä (esimerkiksi kuvia tai tietoja) laitteen oman jakotoiminnon kautta. Tällöin tiedot lähetetään käyttäjän valitseman jakokanavan kautta. Sovelluksemme eivät itse lähetä tietoja mihinkään."
+      },
+      "analytics": {
+        "title": "9. Analytiikka ja mainokset",
+        "content": "Sovelluksemme eivät sisällä analytiikkaseurantaa, mainosjärjestelmiä eivätkä kolmansien osapuolten SDK:ita, jotka keräisivät tietoja."
+      },
+      "security": {
+        "title": "10. Tietoturva",
+        "content": "Koska tiedot tallennetaan ainoastaan käyttäjän laitteelle sovelluksen omaan suojattuun säilöön, tietoturva perustuu laitteen omiin suojausmekanismeihin. Suosittelemme käyttäjiä pitämään laitteensa käyttöjärjestelmän ajan tasalla."
+      },
+      "children": {
+        "title": "11. Lapset",
+        "content": "Sovellukset eivät ole erityisesti suunnattu lapsille eivätkä kerää tietoja lapsista."
+      },
+      "gdpr": {
+        "title": "12. Käyttäjän oikeudet (GDPR)",
+        "content": "Noudatamme EU:n yleistä tietosuoja-asetusta. Koska tiedot tallennetaan vain laitteellesi, sinulla on täysi hallinta tietoihisi. Voit:",
+        "inspect": {
+          "label": "Tarkastaa tiedot:",
+          "content": "Näet kaikki tiedot suoraan sovelluksesta."
+        },
+        "delete": {
+          "label": "Poistaa tiedot:",
+          "content": "Kaikki tiedot poistuvat, kun poistat sovelluksen laitteeltasi."
+        },
+        "consent": {
+          "label": "Peruuttaa suostumuksen:",
+          "content": "Voit muuttaa kameran ja gallerian käyttöoikeuksia laitteen asetuksista milloin tahansa."
+        }
+      },
+      "changes": {
+        "title": "13. Muutokset",
+        "content": "Tätä tietosuojaselostetta voidaan päivittää tarvittaessa. Muutoksista ilmoitetaan sovellusten päivityksen yhteydessä."
+      },
+      "contact": {
+        "title": "14. Yhteystiedot",
+        "content": "Jos sinulla on kysyttävää tietosuojasta, voit ottaa meihin yhteyttä:",
+        "company": "Multi-Apps Oy",
+        "emailLabel": "Sähköposti",
+        "email": "support@multiapps.fi"
+      }
+    }
+  },
+  "roadpointTermsPage": {
+    "title": "RoadPoint – Käyttöehdot",
+    "effectiveDate": "Voimassa alkaen: 3.4.2026",
+    "sections": {
+      "general": {
+        "title": "1. Yleistä",
+        "content": "Nämä käyttöehdot (\"Ehdot\") koskevat MultiAppsin (\"me\", \"meidän\") tarjoamaa RoadPoint-mobiilisovellusta (\"Sovellus\"). Käyttämällä Sovellusta hyväksyt nämä Ehdot kokonaisuudessaan. Jos et hyväksy näitä Ehtoja, älä käytä Sovellusta."
+      },
+      "service": {
+        "title": "2. Palvelun kuvaus",
+        "content": "RoadPoint on karttasovellus, joka näyttää Suomen tieverkon tieosoitetietoja. Sovellus hakee tietoja käyttäjän sijainnin tai kartalle napauttamisen perusteella ja näyttää kyseisen tiekohdan metatiedot, kuten tienumeron, tieosan, etäisyyden, kunnan ja tieluokan.",
+        "internet": {
+          "title": "2.1 Internetyhteys",
+          "content": "Sovellus vaatii jatkuvan internetyhteyden toimiakseen. Sovellus hakee kartta- ja tieosoitetiedot ulkoisista rajapinnoista reaaliaikaisesti, eikä sovellus toimi ilman verkkoyhteyttä. Emme vastaa internetyhteyden saatavuudesta tai laadusta."
+        },
+        "location": {
+          "title": "2.2 Sijaintipalvelut",
+          "content": "Osa Sovelluksen toiminnoista, kuten automaattinen tieosoitteen haku käyttäjän sijainnin perusteella, edellyttää tarkkaa GNSS-paikannusta (GPS). Sijaintitiedon tarkkuus riippuu käyttäjän laitteesta, ympäristöolosuhteista ja satelliittien saatavuudesta. Emme vastaa paikannuksen tarkkuudesta tai siitä aiheutuvista epätarkkuuksista tieosoitetiedoissa."
+        },
+        "availability": {
+          "title": "2.3 Maantieteellinen saatavuus",
+          "content1": "Palvelu on suunniteltu käytettäväksi Suomessa, eikä sen toimivuutta muualla taata."
+        }
+      },
+      "subscription": {
+        "title": "3. Tilausmalli ja maksut",
+        "plan": {
+          "title": "3.1 Tilaus",
+          "content": "Sovelluksen käyttö edellyttää voimassa olevaa tilausta. Tilaus on kuukausitilaus, joka uusiutuu automaattisesti kunkin laskutuskauden päättyessä."
+        },
+        "trial": {
+          "title": "3.2 Ilmainen kokeilujakso",
+          "content": "Uudet tilaajat voivat saada ilmaisen kokeilujakson. Kokeilujakson pituus ilmoitetaan tilauksen yhteydessä. Jos tilausta ei peruuteta ennen kokeilujakson päättymistä, tilaus muuttuu maksulliseksi."
+        },
+        "payment": {
+          "title": "3.3 Maksut ja laskutus",
+          "content": "Tilausmaksut veloitetaan Apple App Storen tai Google Play Storen kautta käyttäjän valitsemalla maksutavalla. Hinnat voivat vaihdella alueittain ja sisältävät mahdolliset sovellettavat verot."
+        },
+        "cancellation": {
+          "title": "3.4 Peruutus",
+          "content": "Tilauksen voi peruuttaa milloin tahansa laitteen asetuksista tai sovelluskaupan tilausten hallinnasta. Peruutus astuu voimaan kuluvan laskutuskauden päättyessä. Mahdolliset palautukset käsitellään sovelluskaupan ehtojen mukaisesti."
+        },
+        "license": {
+          "title": "3.5 Lisenssikoodit",
+          "content": "Sovellusta voi käyttää myös erillisellä lisenssikoodilla. Lisenssikoodiin liittyy laitekohtainen rajoitus. Lisenssikoodi oikeuttaa Sovelluksen käyttöön lisenssikoodin ehtojen mukaisesti."
+        }
+      },
+      "externalServices": {
+        "title": "4. Ulkoiset palvelut ja rajapinnat",
+        "thirdParty": {
+          "title": "4.1 Kolmannen osapuolen rajapinnat",
+          "content": "Sovellus käyttää ulkoisia kolmannen osapuolen rajapintoja ja palveluita tietojen hakemiseen ja näyttämiseen, mukaan lukien mutta niihin rajoittumatta:",
+          "item1": "Väyläviraston Viitekehysmuunnin-rajapinta tieosoitetietojen hakemiseen",
+          "item2": "OpenFreeMap karttatiilien näyttämiseen"
+        },
+        "disclaimer": {
+          "title": "4.2 Vastuuvapaus ulkoisista palveluista",
+          "content1": "Emme omista, hallinnoi tai ylläpidä edellä mainittuja ulkoisia rajapintoja ja palveluita. Emme voi taata näiden palveluiden jatkuvaa saatavuutta, toimivuutta, tarkkuutta tai virheettömyyttä. Ulkoisissa palveluissa voi esiintyä käyttökatkoksia, viiveitä tai virheitä ilman ennakkovaroitusta, eikä tämä ole meidän hallinnassamme.",
+          "content2": "Emme ole vastuussa mistään vahingoista tai haitoista, jotka aiheutuvat ulkoisten rajapintojen tai palveluiden toimimattomuudesta, saatavuusongelmista, tietojen virheellisyydestä tai muista häiriöistä.",
+          "content3": "Ulkoisten palveluiden tarjoajat voivat muuttaa rajapintojensa ehtoja, sisältöä tai saatavuutta ilman erillistä ilmoitusta, mikä voi vaikuttaa Sovelluksen toimintaan.",
+          "content4": "Ulkoiset rajapinnat voivat asettaa kyselymäärärajoituksia. Mikäli Sovelluksen kautta tehdään poikkeuksellisen suuri määrä kyselyitä, kolmannen osapuolen rajapinta voi tilapäisesti rajoittaa tai estää tietojen hakemisen. Tällaisissa tilanteissa Sovelluksen toiminta voi olla rajoitettua, eikä tämä oikeuta hyvitykseen tai korvaukseen."
+        }
+      },
+      "accuracy": {
+        "title": "5. Tietojen tarkkuus",
+        "content": "Sovelluksen näyttämät tieosoitetiedot ja muu data perustuvat ulkoisista lähteistä saatuihin tietoihin. Emme takaa tietojen oikeellisuutta, ajantasaisuutta tai kattavuutta. Sovellus ei korvaa virallisia tietolähteitä, eikä sitä tule käyttää ainoana tietolähteenä päätöksenteossa, jossa tietojen tarkkuudella on olennainen merkitys."
+      },
+      "userObligations": {
+        "title": "6. Käyttäjän velvollisuudet",
+        "content": "Käyttäjä sitoutuu:",
+        "item1": "Käyttämään Sovellusta näiden Ehtojen ja sovellettavan lainsäädännön mukaisesti",
+        "item2": "Olemaan yrittämättä kiertää Sovelluksen teknisiä suojauksia tai rajoituksia",
+        "item3": "Olemaan käyttämättä Sovellusta tavalla, joka kuormittaa palveluita kohtuuttomasti",
+        "item4": "Olemaan jakamatta lisenssikoodeita kolmansille osapuolille"
+      },
+      "liability": {
+        "title": "7. Vastuunrajoitus",
+        "content": "Sovellus tarjotaan \"sellaisena kuin se on\" ilman minkäänlaista takuuta. Lain sallimissa rajoissa emme ole vastuussa mistään suorista, epäsuorista, satunnaisista, erityisistä tai välillisistä vahingoista, jotka aiheutuvat Sovelluksen käytöstä tai käytön estymisestä, mukaan lukien mutta niihin rajoittumatta:",
+        "item1": "Tietojen virheellisyydestä tai puutteellisuudesta aiheutuvat vahingot",
+        "item2": "Palvelukatkoksista aiheutuvat vahingot",
+        "item3": "Ulkoisten rajapintojen toimintahäiriöistä aiheutuvat vahingot"
+      },
+      "suspension": {
+        "title": "8. Palvelun keskeyttäminen ja lopettaminen",
+        "content1": "Pidätämme oikeuden keskeyttää, rajoittaa tai lopettaa Sovelluksen toiminnan kokonaan tai osittain milloin tahansa, ilman ennakkoilmoitusta ja mistä tahansa syystä. Tämä koskee myös tilanteita, joissa ulkoiset palvelut lakkaavat toimimasta tai niiden ehdot muuttuvat.",
+        "content2": "Mikäli Sovelluksen toiminta lopetetaan pysyvästi, pyrimme ilmoittamaan asiasta kohtuullisessa ajassa etukäteen. Emme ole velvollisia korvaamaan käyttäjälle palvelun keskeyttämisestä tai lopettamisesta aiheutuvia vahinkoja. Käyttäjällä on oikeus peruuttaa tilauksensa sovelluskaupan kautta.",
+        "content3": "Jos palvelu lopetetaan kesken voimassa olevan tilauskauden, mahdolliset hyvitykset määräytyvät sovelluskaupan ehtojen mukaisesti."
+      },
+      "ip": {
+        "title": "9. Immateriaalioikeudet",
+        "content": "Sovellus ja sen sisältö, mukaan lukien mutta niihin rajoittumatta lähdekoodi, grafiikka, käyttöliittymä ja dokumentaatio, ovat MultiAppsin omaisuutta ja suojattuja tekijänoikeuslain nojalla. Tilaus tai lisenssikoodi myöntää käyttäjälle rajoitetun, henkilökohtaisen ja ei-siirrettävän käyttöoikeuden Sovellukseen."
+      },
+      "privacy": {
+        "title": "10. Tietosuoja",
+        "contentBefore": "Sovelluksen käyttöön liittyvien henkilötietojen käsittelystä kerrotaan tarkemmin ",
+        "link": "tietosuojaselosteessamme",
+        "contentAfter": ". Käyttämällä Sovellusta hyväksyt tietojen käsittelyn tietosuojaselosteen mukaisesti."
+      },
+      "forceMajeure": {
+        "title": "11. Force majeure",
+        "content": "Emme ole vastuussa velvoitteidemme viivästymisestä tai täyttämättä jättämisestä, mikäli se johtuu ylivoimaisesta esteestä (force majeure). Ylivoimaiseksi esteeksi katsotaan tapahtuma, joka on meidän vaikutusmahdollisuuksiemme ulkopuolella ja jota emme ole voineet kohtuudella ennakoida, mukaan lukien mutta niihin rajoittumatta:",
+        "item1": "Luonnonkatastrofit, sotatilat tai terroriteot",
+        "item2": "Lainsäädännön muutokset, viranomaismääräykset tai pakotteet",
+        "item3": "Tietoliikennehäiriöt, kyberahyökkäykset tai internetin toimintakatkokset",
+        "item4": "Kolmannen osapuolen rajapintojen tai palveluiden toimintahäiriöt tai lakkautukset",
+        "item5": "Pandemiat, epidemiat tai muut vastaavat poikkeustilanteet",
+        "closing": "Force majeure -tilanteessa pyrimme tiedottamaan käyttäjiä esteestä ja sen arvioidusta kestosta kohtuullisessa ajassa."
+      },
+      "modifications": {
+        "title": "12. Ehtojen muuttaminen",
+        "content": "Pidätämme oikeuden muuttaa näitä Ehtoja. Olennaisista muutoksista ilmoitetaan Sovelluksen kautta tai sähköpostitse. Sovelluksen käytön jatkaminen muutosten jälkeen katsotaan muutettujen Ehtojen hyväksymiseksi."
+      },
+      "law": {
+        "title": "13. Sovellettava laki ja riidanratkaisu",
+        "content": "Näihin Ehtoihin sovelletaan Suomen lakia. Mahdolliset erimielisyydet pyritään ratkaisemaan ensisijaisesti neuvottelemalla. Mikäli neuvotteluissa ei päästä sovintoon, ratkaistaan riita Helsingin käräjäoikeudessa."
+      },
+      "contact": {
+        "title": "14. Yhteystiedot",
+        "content": "Jos sinulla on kysyttävää näistä Ehdoista tai Sovelluksen käytöstä, ota yhteyttä:",
+        "company": "MultiApps",
+        "emailLabel": "Sähköposti",
+        "email": "support@multiapps.fi",
+        "websiteLabel": "Verkkosivusto",
+        "website": "https://multiapps.fi"
+      }
+    }
+  },
   "footer": {
     "products": "Tuotteet",
     "company": "Yritys",
@@ -326,6 +544,8 @@
     "contact": "Yhteystiedot",
     "privacy": "Tietosuoja",
     "terms": "Käyttöehdot",
+    "roadpointTerms": "RoadPoint Käyttöehdot",
+    "roadpointPrivacy": "RoadPoint Tietosuoja",
     "downloadTitle": "Lataa",
     "rights": "Kaikki oikeudet pidätetään."
   }
