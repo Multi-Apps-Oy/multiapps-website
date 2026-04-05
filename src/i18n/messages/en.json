@@ -431,6 +431,10 @@
         "availability": {
           "title": "2.3 Geographic Availability",
           "content1": "The service is designed for use in Finland, and its functionality elsewhere is not guaranteed."
+        },
+        "version": {
+          "title": "2.4 Application Version",
+          "content": "The Application may require the latest version to function properly. We do not guarantee the functionality or compatibility of older versions, and their support may be discontinued at any time without separate notice."
         }
       },
       "subscription": {

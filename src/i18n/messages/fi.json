@@ -431,6 +431,10 @@
         "availability": {
           "title": "2.3 Maantieteellinen saatavuus",
           "content1": "Palvelu on suunniteltu käytettäväksi Suomessa, eikä sen toimivuutta muualla taata."
+        },
+        "version": {
+          "title": "2.4 Sovelluksen versio",
+          "content": "Sovelluksen toimivuus voi edellyttää uusimman version käyttöä. Emme takaa vanhempien versioiden toimivuutta tai yhteensopivuutta, ja niiden tuki voidaan lopettaa milloin tahansa ilman erillistä ilmoitusta."
         }
       },
       "subscription": {

@@ -67,6 +67,10 @@ export default async function RoadPointTermsPage({ params }: PageProps) {
                 <h3 className="text-lg font-medium">{t('sections.service.availability.title')}</h3>
                 <p className="mt-2 text-muted-foreground">{t('sections.service.availability.content1')}</p>
               </div>
+              <div className="mt-4">
+                <h3 className="text-lg font-medium">{t('sections.service.version.title')}</h3>
+                <p className="mt-2 text-muted-foreground">{t('sections.service.version.content')}</p>
+              </div>
             </div>
 
             {/* 3. Tilausmalli ja maksut */}
