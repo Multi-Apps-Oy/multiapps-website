@@ -49,6 +49,7 @@ export default async function RoadPointTermsPage({ params }: PageProps) {
             <div>
               <h2 className="text-xl font-semibold">{t('sections.general.title')}</h2>
               <p className="mt-2 text-muted-foreground">{t('sections.general.content')}</p>
+              <p className="mt-2 text-muted-foreground">{t('sections.general.content2')}</p>
             </div>
 
             {/* 2. Palvelun kuvaus */}
@@ -116,6 +117,10 @@ export default async function RoadPointTermsPage({ params }: PageProps) {
                 <p className="mt-2 text-muted-foreground">{t('sections.externalServices.disclaimer.content3')}</p>
                 <p className="mt-2 text-muted-foreground">{t('sections.externalServices.disclaimer.content4')}</p>
               </div>
+              <div className="mt-4">
+                <h3 className="text-lg font-medium">{t('sections.externalServices.compliance.title')}</h3>
+                <p className="mt-2 text-muted-foreground">{t('sections.externalServices.compliance.content')}</p>
+              </div>
             </div>
 
             {/* 5. Tietojen tarkkuus */}
@@ -133,21 +138,56 @@ export default async function RoadPointTermsPage({ params }: PageProps) {
                 <li>{t('sections.userObligations.item2')}</li>
                 <li>{t('sections.userObligations.item3')}</li>
                 <li>{t('sections.userObligations.item4')}</li>
+                <li>{t('sections.userObligations.item5')}</li>
               </ul>
             </div>
 
-            {/* 7. Vastuunrajoitus */}
+            {/* 7. Käyttöoikeuden laajuus (lisenssi) */}
             <div>
-              <h2 className="text-xl font-semibold">{t('sections.liability.title')}</h2>
-              <p className="mt-2 text-muted-foreground">{t('sections.liability.content')}</p>
-              <ul className="mt-2 list-disc space-y-1 pl-6 text-muted-foreground">
-                <li>{t('sections.liability.item1')}</li>
-                <li>{t('sections.liability.item2')}</li>
-                <li>{t('sections.liability.item3')}</li>
-              </ul>
+              <h2 className="text-xl font-semibold">{t('sections.license.title')}</h2>
+              <p className="mt-2 text-muted-foreground">{t('sections.license.content1')}</p>
+              <p className="mt-2 text-muted-foreground">{t('sections.license.content2')}</p>
             </div>
 
-            {/* 8. Palvelun keskeyttäminen ja lopettaminen */}
+            {/* 8. Ylläpito ja tuki */}
+            <div>
+              <h2 className="text-xl font-semibold">{t('sections.maintenance.title')}</h2>
+              <p className="mt-2 text-muted-foreground">{t('sections.maintenance.content')}</p>
+            </div>
+
+            {/* 9. Takuu ja vastuunrajoitus */}
+            <div>
+              <h2 className="text-xl font-semibold">{t('sections.warranty.title')}</h2>
+              <p className="mt-2 text-muted-foreground">{t('sections.warranty.content1')}</p>
+              <p className="mt-2 text-muted-foreground">{t('sections.warranty.content2')}</p>
+              <p className="mt-2 text-muted-foreground">{t('sections.warranty.content3')}</p>
+              <ul className="mt-2 list-disc space-y-1 pl-6 text-muted-foreground">
+                <li>{t('sections.warranty.item1')}</li>
+                <li>{t('sections.warranty.item2')}</li>
+                <li>{t('sections.warranty.item3')}</li>
+              </ul>
+              <p className="mt-2 text-muted-foreground">{t('sections.warranty.closing')}</p>
+            </div>
+
+            {/* 10. Vaatimukset ja tuotevastuu */}
+            <div>
+              <h2 className="text-xl font-semibold">{t('sections.claims.title')}</h2>
+              <p className="mt-2 text-muted-foreground">{t('sections.claims.content')}</p>
+            </div>
+
+            {/* 11. Immateriaalioikeuksia koskevat vaatimukset */}
+            <div>
+              <h2 className="text-xl font-semibold">{t('sections.ipClaims.title')}</h2>
+              <p className="mt-2 text-muted-foreground">{t('sections.ipClaims.content')}</p>
+            </div>
+
+            {/* 12. Vientirajoitukset ja lakien noudattaminen */}
+            <div>
+              <h2 className="text-xl font-semibold">{t('sections.export.title')}</h2>
+              <p className="mt-2 text-muted-foreground">{t('sections.export.content')}</p>
+            </div>
+
+            {/* 13. Palvelun keskeyttäminen ja lopettaminen */}
             <div>
               <h2 className="text-xl font-semibold">{t('sections.suspension.title')}</h2>
               <p className="mt-2 text-muted-foreground">{t('sections.suspension.content1')}</p>
@@ -155,13 +195,7 @@ export default async function RoadPointTermsPage({ params }: PageProps) {
               <p className="mt-2 text-muted-foreground">{t('sections.suspension.content3')}</p>
             </div>
 
-            {/* 9. Immateriaalioikeudet */}
-            <div>
-              <h2 className="text-xl font-semibold">{t('sections.ip.title')}</h2>
-              <p className="mt-2 text-muted-foreground">{t('sections.ip.content')}</p>
-            </div>
-
-            {/* 10. Tietosuoja */}
+            {/* 14. Tietosuoja */}
             <div>
               <h2 className="text-xl font-semibold">{t('sections.privacy.title')}</h2>
               <p className="mt-2 text-muted-foreground">
@@ -171,7 +205,7 @@ export default async function RoadPointTermsPage({ params }: PageProps) {
               </p>
             </div>
 
-            {/* 11. Force majeure */}
+            {/* 15. Force majeure */}
             <div>
               <h2 className="text-xl font-semibold">{t('sections.forceMajeure.title')}</h2>
               <p className="mt-2 text-muted-foreground">{t('sections.forceMajeure.content')}</p>
@@ -185,19 +219,25 @@ export default async function RoadPointTermsPage({ params }: PageProps) {
               <p className="mt-2 text-muted-foreground">{t('sections.forceMajeure.closing')}</p>
             </div>
 
-            {/* 12. Ehtojen muuttaminen */}
+            {/* 16. Ehtojen muuttaminen */}
             <div>
               <h2 className="text-xl font-semibold">{t('sections.modifications.title')}</h2>
               <p className="mt-2 text-muted-foreground">{t('sections.modifications.content')}</p>
             </div>
 
-            {/* 13. Sovellettava laki ja riidanratkaisu */}
+            {/* 17. Apple kolmantena edunsaajana */}
+            <div>
+              <h2 className="text-xl font-semibold">{t('sections.appleBeneficiary.title')}</h2>
+              <p className="mt-2 text-muted-foreground">{t('sections.appleBeneficiary.content')}</p>
+            </div>
+
+            {/* 18. Sovellettava laki ja riidanratkaisu */}
             <div>
               <h2 className="text-xl font-semibold">{t('sections.law.title')}</h2>
               <p className="mt-2 text-muted-foreground">{t('sections.law.content')}</p>
             </div>
 
-            {/* 14. Yhteystiedot */}
+            {/* 19. Yhteystiedot */}
             <div>
               <h2 className="text-xl font-semibold">{t('sections.contact.title')}</h2>
               <p className="mt-2 text-muted-foreground">{t('sections.contact.content')}</p>

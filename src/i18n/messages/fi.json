@@ -410,12 +410,13 @@
     }
   },
   "roadpointTermsPage": {
-    "title": "RoadPoint – Käyttöehdot",
-    "effectiveDate": "Voimassa alkaen: 3.4.2026",
+    "title": "RoadPoint – Käyttöehdot (EULA)",
+    "effectiveDate": "Voimassa alkaen: 10.6.2026",
     "sections": {
       "general": {
         "title": "1. Yleistä",
-        "content": "Nämä käyttöehdot (\"Ehdot\") koskevat MultiAppsin (\"me\", \"meidän\") tarjoamaa RoadPoint-mobiilisovellusta (\"Sovellus\"). Käyttämällä Sovellusta hyväksyt nämä Ehdot kokonaisuudessaan. Jos et hyväksy näitä Ehtoja, älä käytä Sovellusta."
+        "content": "Nämä käyttöehdot (\"Ehdot\") koskevat Multi-Apps Oy:n (\"MultiApps\", \"me\", \"meidän\") tarjoamaa RoadPoint-mobiilisovellusta (\"Sovellus\"). Käyttämällä Sovellusta hyväksyt nämä Ehdot kokonaisuudessaan. Jos et hyväksy näitä Ehtoja, älä käytä Sovellusta.",
+        "content2": "Nämä Ehdot ovat voimassa yksinomaan sinun ja MultiAppsin välillä – eivät Apple Inc:n (\"Apple\") tai Google LLC:n kanssa. MultiApps, ei Apple, on yksin vastuussa Sovelluksesta ja sen sisällöstä. Nämä Ehdot eivät rajoita Apple Media Services -käyttöehtojen mukaisia käyttösääntöjä, vaan niitä sovelletaan näiden Ehtojen rinnalla."
       },
       "service": {
         "title": "2. Palvelun kuvaus",
@@ -474,6 +475,10 @@
           "content2": "Emme ole vastuussa mistään vahingoista tai haitoista, jotka aiheutuvat ulkoisten rajapintojen tai palveluiden toimimattomuudesta, saatavuusongelmista, tietojen virheellisyydestä tai muista häiriöistä.",
           "content3": "Ulkoisten palveluiden tarjoajat voivat muuttaa rajapintojensa ehtoja, sisältöä tai saatavuutta ilman erillistä ilmoitusta, mikä voi vaikuttaa Sovelluksen toimintaan.",
           "content4": "Ulkoiset rajapinnat voivat asettaa kyselymäärärajoituksia. Mikäli Sovelluksen kautta tehdään poikkeuksellisen suuri määrä kyselyitä, kolmannen osapuolen rajapinta voi tilapäisesti rajoittaa tai estää tietojen hakemisen. Tällaisissa tilanteissa Sovelluksen toiminta voi olla rajoitettua, eikä tämä oikeuta hyvitykseen tai korvaukseen."
+        },
+        "compliance": {
+          "title": "4.3 Kolmannen osapuolen ehtojen noudattaminen",
+          "content": "Käyttäjän tulee Sovellusta käyttäessään noudattaa soveltuvia kolmannen osapuolen ehtoja, mukaan lukien esimerkiksi käyttäjän oman mobiilidata- tai tietoliikenneliittymän ehdot."
         }
       },
       "accuracy": {
@@ -486,33 +491,54 @@
         "item1": "Käyttämään Sovellusta näiden Ehtojen ja sovellettavan lainsäädännön mukaisesti",
         "item2": "Olemaan yrittämättä kiertää Sovelluksen teknisiä suojauksia tai rajoituksia",
         "item3": "Olemaan käyttämättä Sovellusta tavalla, joka kuormittaa palveluita kohtuuttomasti",
-        "item4": "Olemaan jakamatta lisenssikoodeita kolmansille osapuolille"
+        "item4": "Olemaan jakamatta lisenssikoodeita kolmansille osapuolille",
+        "item5": "Noudattamaan soveltuvia kolmannen osapuolen ehtoja Sovellusta käyttäessään"
       },
-      "liability": {
-        "title": "7. Vastuunrajoitus",
-        "content": "Sovellus tarjotaan \"sellaisena kuin se on\" ilman minkäänlaista takuuta. Lain sallimissa rajoissa emme ole vastuussa mistään suorista, epäsuorista, satunnaisista, erityisistä tai välillisistä vahingoista, jotka aiheutuvat Sovelluksen käytöstä tai käytön estymisestä, mukaan lukien mutta niihin rajoittumatta:",
+      "license": {
+        "title": "7. Käyttöoikeuden laajuus (lisenssi)",
+        "content1": "Sovellus ja sen sisältö, mukaan lukien mutta niihin rajoittumatta lähdekoodi, grafiikka, käyttöliittymä ja dokumentaatio, ovat MultiAppsin omaisuutta ja suojattuja tekijänoikeuslain nojalla.",
+        "content2": "Tilaus tai lisenssikoodi myöntää käyttäjälle rajoitetun, henkilökohtaisen ja ei-siirrettävän käyttöoikeuden Sovellukseen. Kun Sovellus on hankittu Apple App Storesta, käyttöoikeus rajoittuu Sovelluksen käyttöön Apple-tuotemerkin laitteilla, jotka käyttäjä omistaa tai joita hän hallitsee, Apple Media Services -käyttöehdoissa määriteltyjen käyttösääntöjen mukaisesti. Sovellusta voivat kuitenkin käyttää myös muut ostajan tiliin Perhejaon (Family Sharing) tai volyymioston kautta liitetyt tilit."
+      },
+      "maintenance": {
+        "title": "8. Ylläpito ja tuki",
+        "content": "MultiApps on yksin vastuussa Sovelluksen ylläpidosta ja tukipalveluista näiden Ehtojen ja sovellettavan lainsäädännön edellyttämässä laajuudessa. Käyttäjä ja MultiApps toteavat, että Applella ei ole minkäänlaista velvollisuutta tarjota Sovellukseen liittyviä ylläpito- tai tukipalveluita."
+      },
+      "warranty": {
+        "title": "9. Takuu ja vastuunrajoitus",
+        "content1": "Sovellus tarjotaan \"sellaisena kuin se on\" ilman minkäänlaista takuuta, siltä osin kuin takuita ei voida pätevästi sulkea pois sovellettavan lain nojalla. MultiApps on yksin vastuussa mahdollisista tuotetakuista, olivatpa ne nimenomaisia tai lain nojalla oletettuja.",
+        "content2": "Jos Apple App Storesta hankittu Sovellus ei vastaa siihen sovellettavaa takuuta, käyttäjä voi ilmoittaa asiasta Applelle, jolloin Apple palauttaa käyttäjälle Sovelluksen ostohinnan. Sovellettavan lain sallimissa rajoissa Applella ei ole mitään muuta takuuvelvoitetta Sovelluksen osalta, ja kaikki muut takuun vastaamattomuudesta johtuvat vaatimukset, menetykset, vastuut, vahingot, kulut ja kustannukset ovat yksin MultiAppsin vastuulla.",
+        "content3": "Lain sallimissa rajoissa emme ole vastuussa mistään suorista, epäsuorista, satunnaisista, erityisistä tai välillisistä vahingoista, jotka aiheutuvat Sovelluksen käytöstä tai käytön estymisestä, mukaan lukien mutta niihin rajoittumatta:",
         "item1": "Tietojen virheellisyydestä tai puutteellisuudesta aiheutuvat vahingot",
         "item2": "Palvelukatkoksista aiheutuvat vahingot",
-        "item3": "Ulkoisten rajapintojen toimintahäiriöistä aiheutuvat vahingot"
+        "item3": "Ulkoisten rajapintojen toimintahäiriöistä aiheutuvat vahingot",
+        "closing": "Nämä Ehdot eivät rajoita MultiAppsin vastuuta käyttäjää kohtaan enempää kuin sovellettava laki sallii, eivätkä ne rajoita kuluttajalle pakottavan lainsäädännön nojalla kuuluvia oikeuksia."
+      },
+      "claims": {
+        "title": "10. Vaatimukset ja tuotevastuu",
+        "content": "Käyttäjä ja MultiApps toteavat, että MultiApps, ei Apple, on vastuussa kaikkien käyttäjän tai kolmannen osapuolen Sovellukseen tai sen hallintaan ja käyttöön liittyvien vaatimusten käsittelystä, mukaan lukien mutta niihin rajoittumatta: (i) tuotevastuuvaatimukset; (ii) vaatimukset siitä, että Sovellus ei täytä sovellettavia lakisääteisiä tai viranomaisvaatimuksia; sekä (iii) kuluttajansuoja-, tietosuoja- tai vastaavaan lainsäädäntöön perustuvat vaatimukset."
+      },
+      "ipClaims": {
+        "title": "11. Immateriaalioikeuksia koskevat vaatimukset",
+        "content": "Käyttäjä ja MultiApps toteavat, että mikäli kolmas osapuoli väittää Sovelluksen tai sen hallinnan ja käytön loukkaavan kolmannen osapuolen immateriaalioikeuksia, MultiApps, ei Apple, on yksin vastuussa tällaisen vaatimuksen tutkimisesta, puolustamisesta, sovittelusta ja ratkaisemisesta."
+      },
+      "export": {
+        "title": "12. Vientirajoitukset ja lakien noudattaminen",
+        "content": "Käyttäjä vakuuttaa, että (i) hän ei oleskele maassa, joka on Yhdysvaltain hallituksen vientikiellon kohteena tai jonka Yhdysvaltain hallitus on määritellyt \"terrorismia tukevaksi\" maaksi, ja että (ii) häntä ei ole merkitty mihinkään Yhdysvaltain hallituksen kiellettyjen tai rajoitettujen osapuolten luetteloon."
       },
       "suspension": {
-        "title": "8. Palvelun keskeyttäminen ja lopettaminen",
+        "title": "13. Palvelun keskeyttäminen ja lopettaminen",
         "content1": "Pidätämme oikeuden keskeyttää, rajoittaa tai lopettaa Sovelluksen toiminnan kokonaan tai osittain milloin tahansa, ilman ennakkoilmoitusta ja mistä tahansa syystä. Tämä koskee myös tilanteita, joissa ulkoiset palvelut lakkaavat toimimasta tai niiden ehdot muuttuvat.",
         "content2": "Mikäli Sovelluksen toiminta lopetetaan pysyvästi, pyrimme ilmoittamaan asiasta kohtuullisessa ajassa etukäteen. Emme ole velvollisia korvaamaan käyttäjälle palvelun keskeyttämisestä tai lopettamisesta aiheutuvia vahinkoja. Käyttäjällä on oikeus peruuttaa tilauksensa sovelluskaupan kautta.",
         "content3": "Jos palvelu lopetetaan kesken voimassa olevan tilauskauden, mahdolliset hyvitykset määräytyvät sovelluskaupan ehtojen mukaisesti."
       },
-      "ip": {
-        "title": "9. Immateriaalioikeudet",
-        "content": "Sovellus ja sen sisältö, mukaan lukien mutta niihin rajoittumatta lähdekoodi, grafiikka, käyttöliittymä ja dokumentaatio, ovat MultiAppsin omaisuutta ja suojattuja tekijänoikeuslain nojalla. Tilaus tai lisenssikoodi myöntää käyttäjälle rajoitetun, henkilökohtaisen ja ei-siirrettävän käyttöoikeuden Sovellukseen."
-      },
       "privacy": {
-        "title": "10. Tietosuoja",
+        "title": "14. Tietosuoja",
         "contentBefore": "Sovelluksen käyttöön liittyvien henkilötietojen käsittelystä kerrotaan tarkemmin ",
         "link": "tietosuojaselosteessamme",
         "contentAfter": ". Käyttämällä Sovellusta hyväksyt tietojen käsittelyn tietosuojaselosteen mukaisesti."
       },
       "forceMajeure": {
-        "title": "11. Force majeure",
+        "title": "15. Force majeure",
         "content": "Emme ole vastuussa velvoitteidemme viivästymisestä tai täyttämättä jättämisestä, mikäli se johtuu ylivoimaisesta esteestä (force majeure). Ylivoimaiseksi esteeksi katsotaan tapahtuma, joka on meidän vaikutusmahdollisuuksiemme ulkopuolella ja jota emme ole voineet kohtuudella ennakoida, mukaan lukien mutta niihin rajoittumatta:",
         "item1": "Luonnonkatastrofit, sotatilat tai terroriteot",
         "item2": "Lainsäädännön muutokset, viranomaismääräykset tai pakotteet",
@@ -522,17 +548,21 @@
         "closing": "Force majeure -tilanteessa pyrimme tiedottamaan käyttäjiä esteestä ja sen arvioidusta kestosta kohtuullisessa ajassa."
       },
       "modifications": {
-        "title": "12. Ehtojen muuttaminen",
+        "title": "16. Ehtojen muuttaminen",
         "content": "Pidätämme oikeuden muuttaa näitä Ehtoja. Olennaisista muutoksista ilmoitetaan Sovelluksen kautta tai sähköpostitse. Sovelluksen käytön jatkaminen muutosten jälkeen katsotaan muutettujen Ehtojen hyväksymiseksi."
       },
+      "appleBeneficiary": {
+        "title": "17. Apple kolmantena edunsaajana",
+        "content": "Käyttäjä ja MultiApps toteavat ja hyväksyvät, että Apple ja Applen tytäryhtiöt ovat näiden Ehtojen kolmansia edunsaajia (third party beneficiary), ja että käyttäjän hyväksyttyä nämä Ehdot Applella on oikeus (ja Applen katsotaan hyväksyneen tämän oikeuden) vedota näihin Ehtoihin käyttäjää kohtaan kolmantena edunsaajana."
+      },
       "law": {
-        "title": "13. Sovellettava laki ja riidanratkaisu",
+        "title": "18. Sovellettava laki ja riidanratkaisu",
         "content": "Näihin Ehtoihin sovelletaan Suomen lakia. Mahdolliset erimielisyydet pyritään ratkaisemaan ensisijaisesti neuvottelemalla. Mikäli neuvotteluissa ei päästä sovintoon, ratkaistaan riita Helsingin käräjäoikeudessa."
       },
       "contact": {
-        "title": "14. Yhteystiedot",
-        "content": "Jos sinulla on kysyttävää näistä Ehdoista tai Sovelluksen käytöstä, ota yhteyttä:",
-        "company": "MultiApps",
+        "title": "19. Yhteystiedot",
+        "content": "Jos sinulla on kysyttävää näistä Ehdoista tai Sovelluksen käytöstä, taikka haluat esittää Sovellusta koskevan valituksen tai vaatimuksen, ota yhteyttä:",
+        "company": "Multi-Apps Oy",
         "emailLabel": "Sähköposti",
         "email": "support@multiapps.fi",
         "websiteLabel": "Verkkosivusto",
